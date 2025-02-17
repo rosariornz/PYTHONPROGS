@@ -1,0 +1,35 @@
+DATA = {
+"ABBERATION": "A deviation from the normal or typical; an anomaly",
+"BENEVOLENT": "Well meaning and kindly; charitable",
+"CACOPHONY": "A harsh, discordant mixture of sound",
+"DELINEATE": "To describe or portray something precisely",
+"Ephemeral": "Lasting for a very short time; fleeting",
+"FORTUITOS": "Happening by chance, often with a positive outcome",
+"GREGARIOUS": "Fond of company; sociable",
+"HARANGUE": "A lengthy and aggressive speech",
+"INEFFABLE": "To great or extreme to be expressed in words",
+"JOCULAR": "Fond of or characterized by joking; humorous",
+"KALEIDOSCOPE": "A constantly changing pattern or sequence of elements",
+"LANGUID": "Weak or faint from illness or fatigue; slow-moving",
+"MUNIFICENT": "More generous than is usual or necessary",
+"NEFARIOUS": "Wicked or villainous; evil",
+"OSTENTATIOUS": "Displaying wealth or knowledge in an exaggerated manner",
+"PERNICIOUS": "Having a harmful effect, especially in a gradual or subtle way",
+"QUIXOTIC": "Extremely idealistic; unrealistic and impractal",
+"RAVENOUS": "Extremely hungry or vocarious",
+"SYCOPHANT": "A person who flatters or acts obsequiously towards someone in power",
+"TREPIDATION": "A feeling of fear or anxiety about something that may happen",
+"UBIQUITOUS": "Present, appearing, or found everywhere",
+"VORACIOUS": "Having a great appetite for something, especially food",
+"Wistful": "Longing for something, often with sadness or regret",
+"XENOPHOBIA": "Fear or hatred of strangers or foreigners",
+"YEN": "A strong desire or craving for something",
+"ZEPHYR": "A gentle, mild breeze, typically from the west",
+"ALTRUISTIC": "Showing a selfless concern for the well-being of others",
+"BELLIGERENT": "Hostile and aggressive; eager to fight",
+"COGNIZANT": "Aware or mindful of something",
+"DIAPHANOUS": "Light, delicate, and translucent, often used to describe fabric"
+}
+
+a = input("Say: ")
+print(DATA[a])
