@@ -3,3 +3,13 @@ PYTHON TEST HOW TO UPLOAD FILES AND POST PROJECT
 
 VIDEO OF THE DATA TYPES GUIDES
 https://youtu.be/gLhvk7z8w-E
+
+ACTIVITY LAB 3
+https://youtu.be/2gYfbjeS8-I
+
+ACTIVITY LAB 4
+https://youtu.be/SzHjScqcDJM
+
+ACTIVITY LAB 5
+https://youtu.be/ZHdyVA3V7Tg
+
