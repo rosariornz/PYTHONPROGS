@@ -13,3 +13,6 @@ https://youtu.be/SzHjScqcDJM
 ACTIVITY LAB 5
 https://youtu.be/ZHdyVA3V7Tg
 
+ACTIVITY LAB 1
+
+https://youtu.be/Q9fEAF6HHsQ?si=FbTLV0zPHW2wWNXU
