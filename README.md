@@ -14,5 +14,4 @@ ACTIVITY LAB 5
 https://youtu.be/ZHdyVA3V7Tg
 
 ACTIVITY LAB 1
-
-https://youtu.be/Q9fEAF6HHsQ?si=FbTLV0zPHW2wWNXU
+https://youtu.be/qLEi2akbktc?si=157_WVxY3Dt2phMy
